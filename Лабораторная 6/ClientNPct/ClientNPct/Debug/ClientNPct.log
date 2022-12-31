@@ -1,0 +1,6 @@
+﻿  ClientNPct.cpp
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 6\ClientNPct\ClientNPct\ClientNPct.cpp(19,9): warning C4101: hPipe: неиспользованная локальная переменная
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 6\ClientNPct\ClientNPct\ClientNPct.cpp(13,28): warning C4101: cbWritten: неиспользованная локальная переменная
+  ErrorHandling.cpp
+  Создание кода...
+  ClientNPct.vcxproj -> D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 6\ClientNPct\Debug\ClientNPct.exe
