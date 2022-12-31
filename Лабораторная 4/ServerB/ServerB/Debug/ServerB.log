@@ -1,0 +1,5 @@
+﻿  ServerB.cpp
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 4\ServerB\ServerB\ServerB.cpp(116): warning C4715: PutAnswerToClient: значение возвращается не при всех путях выполнения
+ServerB.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl GetErrorMsgText(int)" (?GetErrorMsgText@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) уже определен в ErrorHandling.obj
+ServerB.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl SetErrorMsgText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?SetErrorMsgText@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@H@Z) уже определен в ErrorHandling.obj
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 4\ServerB\Debug\ServerB.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
