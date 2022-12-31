@@ -1,0 +1,3 @@
+﻿  ClientS.cpp
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 5\ClientS\ClientS\ClientS.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ClientS.vcxproj -> D:\Стандартные папки\Рабочий стол\У(ч)ёба\ПСП\Лабораторная 5\ClientS\Debug\ClientS.exe
